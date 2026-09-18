@@ -4,9 +4,9 @@ title: "Snoopy on the moon"
 
 A web page by: 
 
-Cristhian Ochoa (https://github.com/caor8a) 
+-Cristhian Ochoa (https://github.com/caor8a) 
 
-Ben Furber (https://github.com/bfurber26)
+-Ben Furber (https://github.com/bfurber26)
 
 ![Snoopy went to the moon in 1969 for the first time with Apollo 10! How many times have you gone to the moon????](https://media.desenio.com/site_images/685d894c9ba509224c94c441_229890338_18820-5.jpg)
 
