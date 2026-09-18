@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Snoopy on the moon",
+    "objectID": "snoopy_in_style.html",
+    "href": "snoopy_in_style.html",
+    "title": "Snoopy the style icon",
     "section": "",
-    "text": "A web page by:\n-Cristhian Ochoa (https://github.com/caor8a)\n-Ben Furber (https://github.com/bfurber26)\n\n\n\nSnoopy went to the moon in 1969 for the first time with Apollo 10! How many times have you gone to the moon????"
+    "text": "Snoopy has such a massive impact that has it’s own museum in NYC in which they showcase all different snoopy styles across time.\n\n\n\nPretty cool\n\n\nHe even has some acessories inspired on him.\n\n\n\nThe guy has his own watch!!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "Cristhian",
     "section": "",
     "text": "Random facts:\n-I learned I am colorblind by harvesting tomatoes.\n-I’m from Ecuador.\n-I”m an entomologist."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Snoopy on the moon",
+    "section": "",
+    "text": "A web page by:\n-Cristhian Ochoa (https://github.com/caor8a)\n-Ben Furber (https://github.com/bfurber26)\n\n\n\nSnoopy went to the moon in 1969 for the first time with Apollo 10! How many times have you gone to the moon????"
   }
 ]

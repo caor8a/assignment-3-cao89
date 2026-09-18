@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - snoopy_in_style.qmd
 
 format:
   html:
