@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "assignment-3-cao89"
+  title: "Snoopy is the goat"
   navbar:
     left:
       - href: index.qmd
@@ -13,8 +13,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - vapor
     css: styles.css
     toc: true
 
