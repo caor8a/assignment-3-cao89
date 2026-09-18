@@ -2,7 +2,7 @@
 title: "Snoopy on the moon"
 ---
 
-A web page by: 
+## A web page by: 
 
 -Cristhian Ochoa (https://github.com/caor8a) 
 
